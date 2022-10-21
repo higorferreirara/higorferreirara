@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/higorferreirara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorferreirara&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorferreirara&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorferreirara&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorferreirara&layout=compact&langs_count=7&theme=great-gatsby"/>
    
 </div>
 <div align="center" style="display: inline_block"><br>
